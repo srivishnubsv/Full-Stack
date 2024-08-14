@@ -32,4 +32,4 @@ The External Technical Events Portal is a Flutter-based full-stack application d
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/external-technical-events-portal.git
+   git clone https://github.com/srivishnubsv/external-technical-events-portal.git
